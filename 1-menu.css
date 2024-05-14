@@ -1,0 +1,52 @@
+/* "https://www.adac.de/-/media/images/touristik/staedte/muenchen-1912-926x383.jpg?bc=white&as=0&mh=315&mw=762&hash=F582E2E778ED6BACAE824F7A08320FF2" */
+
+/* div {
+  background-image: url("https://www.adac.de/-/media/images/touristik/staedte/muenchen-1912-926x383.jpg?bc=white&as=0&mh=315&mw=762&hash=F582E2E778ED6BACAE824F7A08320FF2");
+
+  width: 50%;
+  margin: 100px auto;
+
+  border: 2px solid black;
+  border-radius: 50px;
+
+  background-color: bisque;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  color: orange;
+
+  /* +++++++++++++++++ Hintergrundbild hinzufügen +++++++++++++++++++++++++++ */
+
+/* background-repeat: ; */
+/* Values: repeat-x | repeat-y | no-repeat */
+
+/* background-position: ; */
+/* Values: left top, etc | x% t% | center */
+
+/* background-size: ; */
+/* Values: unit(px, em, etc) | auto | contain | cover */
+
+/* background-attachment: scroll; */
+/* Values: scroll | fixed */
+
+
+
+/* * {
+  padding: 0;
+  margin: 0;
+} */
+
+div {
+  margin: 50px auto;
+  width: 50%;
+  padding: 20px;
+  /* background-color: bisque; */
+  text-align: center;
+  font-weight: bold;
+  /* border: solid black; */
+  text-decoration: chocolate;
+  background-image: url(https://www.adac.de/-/media/images/touristik/staedte/muenchen-1912-926x383.jpg?bc=white&as=0&mh=315&mw=762&hash=F582E2E778ED6BACAE824F7A08320FF2);
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+
+}
